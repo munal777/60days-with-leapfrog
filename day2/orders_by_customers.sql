@@ -1,0 +1,1 @@
+SELECT * FROM Orders WHERE customer_id between 1 and 3 ORDER BY amount;
