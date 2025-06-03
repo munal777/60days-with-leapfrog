@@ -1,0 +1,7 @@
+Today, I started my SQL learning journey with PostgreSQL.
+I learned how to:
+- Create databases and users
+- Create tables
+- Insert data into tables
+- Update existing rows
+- Delete rows from tables
