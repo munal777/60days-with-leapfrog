@@ -1,0 +1,1 @@
+SELECT first_name, last_name FROM Customers WHERE first_name LIKE 'J%';
