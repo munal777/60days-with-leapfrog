@@ -3,5 +3,6 @@ Learned how to create databases and users, along with creating tables, inserting
 like PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, and CHECK to maintain data integrity. 
 Practiced filtering data using WHERE clause, pattern matching with LIKE, selecting ranges using BETWEEN, and sorting data with ORDER BY.
 Moved on to understanding SQL JOINs — INNER JOIN, LEFT JOIN, and RIGHT JOIN — to combine data from multiple tables.
-Also explored SQL Views to simplify complex queries, Indexes to optimize performance, and began practicing SQL questions
-on platforms like HackerRank and leetcode to build confidence with real-world problems.
+Also explored SQL Views to simplify complex queries, Indexes to optimize performance, and window functions to perform advanced calculations over query results. 
+Finally, studied Database Normalization — understanding UNF, 1NF, 2NF, and 3NF and applied it to organize data properly and reduce redundancy. 
+Regularly practiced questions on platforms like HackerRank and LeetCode to strengthen concepts.
