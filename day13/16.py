@@ -38,3 +38,10 @@ class Solution(object):
                 else:
                     return target
         return threeSum
+
+
+obj = Solution()
+# nums = [-1,2,1,-4]
+nums = [-12,23,1,3,13,12,17,-2]
+target = 16
+print(obj.threeSumClosest(nums, target))
